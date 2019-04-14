@@ -1,4 +1,4 @@
-# YY_study
+# YY_study（给自己一个心态良好）
 
 >第二周作业(MyProject):  
     src/main/java/Service下的文件：   
